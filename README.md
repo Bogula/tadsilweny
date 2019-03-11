@@ -1,2 +1,2 @@
 # tadsilweny
-A python jupyter notebook to find certain airplane type in the sky above you
+A python jupyter notebook to find certain airplane types in the sky above you
